@@ -5,7 +5,7 @@
 
 
 
-https://github.com/alsdk1676/github-readme-stats <br /><br />
+https://github.com/alsdk1676 <br /><br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsdk1676&show_icons=true&theme=transparent) <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsdk1676&layout=donut)](https://github.com/alsdk1676/github-readme-stats)
 
