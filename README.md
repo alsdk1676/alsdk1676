@@ -2,9 +2,9 @@
 ## 👩‍💻Profile
 ✉ **Email** | alsdk6761@gmail.com <br />
 📞 **Phone** | 010-4541-1676 <br />
-📌 **Notion** | https://www.notion.so/_-208103957e58803cbc98feee91011459 <br />
-📌 **Tistory** | https://mina-devlog.tistory.com/ <br />
-📌 **GitHub** | https://github.com/alsdk1676 
+✅ **Notion** | https://www.notion.so/_-208103957e58803cbc98feee91011459 <br />
+✅ **Tistory** | https://mina-devlog.tistory.com/ <br />
+✅ **GitHub** | https://github.com/alsdk1676<br />
 
 
 
