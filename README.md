@@ -2,10 +2,10 @@
 ## 👩‍💻Profile
 ✉ **Email** | alsdk6761@gmail.com <br />
 📞 **Phone** | 010-4541-1676
+💻 **GitHub** | https://github.com/alsdk1676
+📁 **Notion** | [https://www.notion.so/_-208103957e58803cbc98feee91011459?source=copy_link](https://www.notion.so/_-208103957e58803cbc98feee91011459)
 
 
-
-https://github.com/alsdk1676 <br /><br />
 ![✨alsdk1676's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsdk1676&show_icons=true&theme=transparent) <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsdk1676&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
