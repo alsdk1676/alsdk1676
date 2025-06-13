@@ -9,7 +9,7 @@
 
 
 ![✨alsdk1676's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsdk1676&show_icons=true&theme=transparent) <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsdk1676&layout=donut)](https://github.com/anuraghazra/github-readme-stats)<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsdk1676&layout=donut)](https://github.com/anuraghazra/github-readme-stats)<br /><br /><br />
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
