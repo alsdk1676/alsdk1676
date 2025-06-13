@@ -1,13 +1,15 @@
 
 ## 👩‍💻Profile
 ✉ **Email** | alsdk6761@gmail.com <br />
-📞 **Phone** | 010-4541-1676
-💻 **GitHub** | https://github.com/alsdk1676
-📁 **Notion** | [https://www.notion.so/_-208103957e58803cbc98feee91011459?source=copy_link](https://www.notion.so/_-208103957e58803cbc98feee91011459)
+📞 **Phone** | 010-4541-1676 <br />
+📌 **Notion** | https://www.notion.so/_-208103957e58803cbc98feee91011459 <br />
+📌 **Tistory** | https://mina-devlog.tistory.com/ <br />
+📌 **GitHub** | https://github.com/alsdk1676 
+
 
 
 ![✨alsdk1676's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsdk1676&show_icons=true&theme=transparent) <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsdk1676&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsdk1676&layout=donut)](https://github.com/anuraghazra/github-readme-stats)<br />
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
