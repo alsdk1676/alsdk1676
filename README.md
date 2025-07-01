@@ -6,7 +6,7 @@
 📒 **Tistory** | https://mina-devlog.tistory.com/ <br /><br />
 
 
-🌱alsdk1676's GitHub stats
+## 🌱alsdk1676's GitHub stats
 ![🌱alsdk1676's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsdk1676&show_icons=true&theme=transparent) <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsdk1676&layout=donut)](https://github.com/anuraghazra/github-readme-stats)<br /><br /><br />
 
