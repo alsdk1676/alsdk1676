@@ -3,10 +3,10 @@
 ✉ **Email** | alsdk6761@gmail.com <br />
 📞 **Phone** | 010-4541-1676 <br />
 🎯 **Notion** | https://www.notion.so/_-208103957e58803cbc98feee91011459 <br />
-📒 **Tistory** | https://mina-devlog.tistory.com/ <br />
+📒 **Tistory** | https://mina-devlog.tistory.com/ <br /><br />
 
 
-
+🌱alsdk1676's GitHub stats
 ![🌱alsdk1676's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsdk1676&show_icons=true&theme=transparent) <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsdk1676&layout=donut)](https://github.com/anuraghazra/github-readme-stats)<br /><br /><br />
 
@@ -24,7 +24,7 @@
           <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
     </div>
-</div>
+</div<br />
   
 
 
