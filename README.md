@@ -5,11 +5,9 @@
 끈기로 성장하고 신뢰를 쌓는 개발자, 서민아입니다.  
 함께 성장하고, 긍정적인 에너지를 나누는 것을 좋아해요
 
-<br>
 
 ---
 
-<br>
 
 ## 🛠️ Tech Stack
 
@@ -20,24 +18,20 @@
 <img src="https://skillicons.dev/icons?i=java,spring,oracle" height="50"/>
 
 **Tools & DevOps**  
-<img src="https://skillicons.dev/icons?i=git,github,figma,docker,aws,linux" height="50"/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,aws" height="50"/>
 
-<br>
 
 ---
 
-<br>
 
 ## 💻 Project
 
 - **[Gradation](https://github.com/debugging-five/gradation-back)** (2025-04-21 ~ 2025-06-04)  
   졸업작품 전시 및 경매 플랫폼
 
-<br>
 
 ---
 
-<br>
 
 ## 🎓 Experience
 
@@ -47,12 +41,10 @@
   졸업작품 전시 및 경매 플랫폼
 - **NIDSOFT(주)** (2025-07-08 ~)  
   NIDSOFT(주) 시스템 사업부
-  
-<br>
+
 
 ---
 
-<br>
 
 ## 📫 Contact
 
