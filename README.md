@@ -22,7 +22,7 @@
 
 ## 💻 Project
 
-- **[Gradation](#)**  
+- **[Gradation](https://github.com/debugging-five/gradation-back)**  
   졸업작품 전시 및 경매 플랫폼 
 
 ---
