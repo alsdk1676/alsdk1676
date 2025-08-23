@@ -7,7 +7,6 @@
 
 ---
 
-
 ## 🛠️ Tech Stack
 
 **Frontend**  
