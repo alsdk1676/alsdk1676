@@ -19,7 +19,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,figma,aws" height="50"/>
 
 
-
 ---
 
 
