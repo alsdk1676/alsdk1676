@@ -19,7 +19,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,figma,aws" height="50"/>
 
 
-
 ---
 
 
@@ -34,11 +33,11 @@
 
 ## 🎓 Experience
 
-- **백석대학교** (2021-03-01 ~ 2025-02-13)  
+- **백석대학교** (21.03.01 ~ 25.02.13)  
   첨단IT학부 졸업
 - **디버깅5인조**  
   졸업작품 전시 및 경매 플랫폼
-- **NIDSOFT(주)** (2025-07-08 ~)  
+- **NIDSOFT(주)** (25.07 ~ )  
   NIDSOFT(주) 시스템 사업부
 
 
