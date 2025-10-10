@@ -49,7 +49,6 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-alsdk6761@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:alsdk6761@gmail.com)
 [![Notion](https://img.shields.io/badge/Notion-Portfolio-white?style=flat-square&logo=Notion)](https://www.notion.so/_-208103957e58803cbc98feee91011459)
-[![Tistory](https://img.shields.io/badge/Tistory-Blog-black?style=flat-square&logo=Tistory)](https://mina-devlog.tistory.com/)
 
 
 ---
