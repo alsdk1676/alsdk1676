@@ -1,58 +1,68 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Mina%20Seo&fontSize=40&fontAlign=80&fontAlignY=40&color=gradient)
 
-# 🙋‍♀️ 서민아 | Mina Seo
-
-끈기로 성장하고 신뢰를 쌓는 개발자, 서민아입니다.  
-함께 성장하고, 긍정적인 에너지를 나누는 것을 좋아해요
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend**  
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" height="50"/>
-
-**Backend**  
-<img src="https://skillicons.dev/icons?i=java,spring,oracle" height="50"/>
-
-**Tools & DevOps**  
-<img src="https://skillicons.dev/icons?i=git,github,figma,aws" height="50"/>
+## 👩‍💻 Profile
+💌 **Email** | alsdk6761@gmail.com <br />
+📞 **Phone** | 010-4541-1676 <br />
+📝 **Notion** | https://www.notion.so/_-208103957e58803cbc98feee91011459 <br />
 
 
----
+## 🌱 alsdk1676's GitHub stats
+![🌱alsdk1676's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsdk1676&show_icons=true&theme=transparent) <br /><br />
 
 
-## 💻 Project
-
-- **[Gradation](https://github.com/debugging-five/gradation-back)** (2025.04.21 ~ 2025.06.04)  
-  졸업작품 전시 및 경매 플랫폼
+## ✨ Most Used Languages 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsdk1676&layout=donut)](https://github.com/anuraghazra/github-readme-stats)<br /><br />
 
 
----
+## 🛠️ Tech Stacks
+
+**[Front-End]**
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+</p>
+
+<br/>
+
+**[Back-End]**
+<p>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+</p>
+ 
+
+**[Tools]**
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black/>
+</p>
+<br/><br/>
 
 
-## 🎓 Experience
-
-- **백석대학교** (21.03.01 ~ 25.02.13)  
-  첨단IT학부 졸업
-- **NIDSOFT(주)** (25.07 ~ )  
-  NIDSOFT(주) 시스템 사업부
+  
 
 
----
 
 
-## 📫 Contact
-
-[![Gmail](https://img.shields.io/badge/Gmail-alsdk6761@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:alsdk6761@gmail.com)
-[![Notion](https://img.shields.io/badge/Notion-Portfolio-white?style=flat-square&logo=Notion)](https://www.notion.so/_-208103957e58803cbc98feee91011459)
-
----
 
 
-## 📊 GitHub Stats
+<!--
+**alsdk1676/alsdk1676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src="https://github-readme-stats.vercel.app/api?username=alsdk1676&show_icons=true&theme=transparent" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsdk1676&layout=compact" height="150"/>
+Here are some ideas to get you started:
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
