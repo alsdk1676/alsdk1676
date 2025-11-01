@@ -1,7 +1,7 @@
 
 ## 👩‍💻 Profile
 💌 **Email** | alsdk6761@gmail.com <br /><br />
-📞 **Phone** | 010-4541-1676 <br /><br />
+📞 **Phone** | 010-2564-1340 <br /><br />
 📝 **Notion** | https://www.notion.so/_-208103957e58803cbc98feee91011459 <br /><br />
 
 
