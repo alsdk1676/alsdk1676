@@ -13,7 +13,6 @@
 
 
 ## 🛠️ Tech Stacks
-
 **[Front-End]**
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -30,7 +29,6 @@
 <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 </p>
-
  
 **[Tools]**
 <p>
@@ -40,7 +38,6 @@
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black/>
 </p>
 <br/><br/>
-
 
 <!--
 **alsdk1676/alsdk1676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
