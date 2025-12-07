@@ -4,7 +4,7 @@
 📝 **Notion** | https://www.notion.so/_-208103957e58803cbc98feee91011459 <br /><br />
 
 ## 🌱 alsdk1676's GitHub stats
-![🌱alsdk1676's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsdk1676&show_icons=true&theme=transparent) <br /><br />
+[![GitHub Streak](https://streak-stats.demolab.com?user=alsdk1676)](https://git.io/streak-stats)<br /><br />
 
 
 ## ✨ Most Used Languages 
