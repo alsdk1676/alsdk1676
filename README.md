@@ -1,7 +1,6 @@
 ## 👩‍💻 Profile
 💌 **Email** | alsdk6761@gmail.com <br /><br />
 📞 **Phone** | 010-4541-1676 <br /><br />
-📝 **Notion** | https://www.notion.so/_-208103957e58803cbc98feee91011459 <br /><br />
 
 ## 🌱 alsdk1676's GitHub stats
 ![🌱alsdk1676's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsdk1676&show_icons=true&theme=transparent) <br /><br />
