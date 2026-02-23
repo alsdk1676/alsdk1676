@@ -1,5 +1,5 @@
 ## 👩‍💻 Profile
-💌 **Email** | alsdk6761@gmail.com <br /><br />
+💌 **Email** | alsdk6761@gmail.com <br />
 📞 **Phone** | 010-4541-1676 <br /><br />
 
 ## 🌱 alsdk1676's GitHub stats
