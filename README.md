@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black/>
 </p>
-<br/><br/>
+<br/>
 
 <!--
 **alsdk1676/alsdk1676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
