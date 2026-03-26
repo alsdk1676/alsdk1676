@@ -2,14 +2,11 @@
 💌 **Email** | alsdk6761@gmail.com <br />
 📞 **Phone** | 010-4541-1676 <br /><br />
 
-
 ## 🌱 alsdk1676's GitHub stats
 ![🌱alsdk1676's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsdk1676&show_icons=true&theme=transparent) <br />
 
-
 ## ✨ Most Used Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsdk1676&layout=donut)](https://github.com/anuraghazra/github-readme-stats)<br /><br />
-
 
 ## 🛠️ Tech Stacks
 **[Front-End]**
@@ -37,7 +34,6 @@
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black/>
 </p>
 <br/>
-
 
 <!--
 **alsdk1676/alsdk1676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
