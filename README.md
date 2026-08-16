@@ -5,10 +5,8 @@
 ## 🌱 alsdk1676's GitHub stats
 ![🌱alsdk1676's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsdk1676&show_icons=true&theme=transparent) <br />
 
-
 ## ✨ Most Used Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsdk1676&layout=donut)](https://github.com/anuraghazra/github-readme-stats)<br /><br />
-
 
 ## 🛠️ Tech Stacks
 **[Front-End]**
@@ -20,7 +18,6 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 </p>
 
-ㅣ
 **[Back-End]**
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
